@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BugCollection version='2.0.1' threshold='low' effort='max'><Error></Error><Project><SrcDir>/home/skuarch/NetBeansProjects/activeRecord/src/main/java</SrcDir><SrcDir>/home/skuarch/NetBeansProjects/activeRecord/src/test/java</SrcDir></Project></BugCollection>
